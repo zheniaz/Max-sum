@@ -1,6 +1,0 @@
-C:\Users\Тамара\Documents\MaxSum\MaxSum\bin\Debug\MaxSum.exe.config
-C:\Users\Тамара\Documents\MaxSum\MaxSum\bin\Debug\MaxSum.exe
-C:\Users\Тамара\Documents\MaxSum\MaxSum\bin\Debug\MaxSum.pdb
-C:\Users\Тамара\Documents\MaxSum\MaxSum\obj\Debug\MaxSum.csprojResolveAssemblyReference.cache
-C:\Users\Тамара\Documents\MaxSum\MaxSum\obj\Debug\MaxSum.exe
-C:\Users\Тамара\Documents\MaxSum\MaxSum\obj\Debug\MaxSum.pdb
